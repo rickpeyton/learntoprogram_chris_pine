@@ -5,7 +5,7 @@
 # X can be placed before L or C to make 40 (XL) or 90 (XC respectively)
 # C can be placed before D or M to make 400 (CD) or 900 (CM) according to the same pattern[5]
 
-def converter string, length, total
+def roman_values letter
 	roman_hash = {}
 	roman_hash [ 'I'] =    1
 	roman_hash ['IV'] =    4
@@ -20,10 +20,13 @@ def converter string, length, total
 	roman_hash [ 'D'] =  500
 	roman_hash ['CM'] =  900
 	roman_hash [ 'M'] = 1000
+	return roman_hash[letter]
+end
 
+def converter string, length, total
 	if length > 1
-		first = roman_hash[string[0]]
-		second = roman_hash[string[1]]
+		first = roman_values(string[0])
+		second = roman_values(string[1])
 		if second > first
 			length = length - 2
 			total = total + (second - first)
@@ -34,7 +37,7 @@ def converter string, length, total
 			string = string[1, (length)]
 		end
 	else
-		total = total + roman_hash[string[0]]
+		total = total + roman_values(string[0])
 		return total
 	end
 	if string.length > 0
@@ -44,9 +47,26 @@ def converter string, length, total
 	end
 end
 
-# Request a roman numberal from the user and verify it is valid.
-puts 'Please enter a roman numeral to be converted.'
-roman_numeral = gets.chomp.upcase
+# Request a roman numeral from the user and verify it is valid.
+def get_a_numeral
+	puts 'Please enter a roman numeral to be converted.'
+	roman_numeral = gets.chomp.upcase
+end
+
+valid = false
+while valid == false
+	roman_numeral = get_a_numeral
+	x = roman_numeral.length
+	while x > 0
+		if roman_values(roman_numeral[x - 1]) == nil
+			roman_numeral = get_a_numeral
+			x = roman_numeral.length
+		else
+			x = x - 1
+		end
+	end
+	valid = true
+end
 
 # get the lengh of the roman numeral string
 roman_numeral_len = roman_numeral.length
