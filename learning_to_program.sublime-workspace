@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"rom",
+				"roman_numeral"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"get",
+				"get_a_numeral"
+			],
+			[
+				"lengh",
+				"length"
+			],
+			[
+				"ro",
+				"roman_numeral"
+			],
+			[
+				"roman",
+				"roman_numeral"
+			],
+			[
+				"valid",
+				"valid_check"
+			],
+			[
+				"roma",
+				"roman_numeral_len"
+			],
+			[
+				"new",
+				"new_price"
+			],
+			[
+				"exi",
+				"existing_money"
+			],
+			[
+				"pri",
+				"price_possibilities"
+			],
+			[
+				"item",
+				"item_price"
+			],
+			[
+				"app",
+				"apply_discount"
+			],
+			[
+				"ite",
+				"item_price"
+			],
+			[
 				"gene",
 				"genre"
 			],
@@ -64,20 +120,12 @@
 				"picture_increment"
 			],
 			[
-				"new",
-				"new_name"
-			],
-			[
 				"ren",
 				"renamer"
 			],
 			[
 				"num",
 				"number3"
-			],
-			[
-				"if",
-				"ife	if … else … end"
 			],
 			[
 				"batch",
@@ -466,26 +514,6 @@
 			[
 				"print",
 				"persian_cat"
-			],
-			[
-				"joke",
-				"joke_evaluation"
-			],
-			[
-				"pou",
-				"pounds_to_kilos"
-			],
-			[
-				"inc",
-				"inches"
-			],
-			[
-				"inches",
-				"inches_to_centimeters"
-			],
-			[
-				"cars",
-				"cars_not_driven"
 			]
 		]
 	},
@@ -516,12 +544,14 @@
 	},
 	"file_history":
 	[
-		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_hash_example.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter.12archive.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/birthdays.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter12.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/amazon_calculator.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_hash_example.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/rick_test.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter10.rb",
 		"/Users/rick/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -641,9 +671,7 @@
 		"/Users/rick/Desktop/quiet/7-02-7b.m4a",
 		"/Users/rick/Desktop/quiet/7-03-7c.m4a",
 		"/Users/rick/Desktop/quiet/7-04-7d.m4a",
-		"/Users/rick/Desktop/quiet/7-05-7e.m4a",
-		"/Users/rick/Desktop/quiet/7-06-7f.m4a",
-		"/Users/rick/Desktop/quiet/7-07-7g.m4a"
+		"/Users/rick/Desktop/quiet/7-05-7e.m4a"
 	],
 	"find":
 	{
@@ -661,6 +689,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"and",
+			"or",
 			"billion",
 			"million",
 			"thousand",
@@ -718,6 +748,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"or",
+			"and",
 			"trillion",
 			"billion",
 			"million",
@@ -812,7 +844,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 312.0,
 	"status_bar_visible": true
 }
