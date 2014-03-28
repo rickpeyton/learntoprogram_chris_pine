@@ -4,8 +4,15 @@ filename = 'handbrake.txt'
 # do a chdir to hold the filename
 Dir.chdir('/Users/rick/Desktop')
 
+puts 'Enter the directory that contains the videos'
+puts 'example: /Volumes/Media/uTorrent/TV/'
+video_dir = gets.chomp
+puts 'Enter the search parameters you would like to use'
+puts 'example: *theory.s02e*.mp4'
+search = gets.chomp
 # find all of the existing mp4 filenames  
-all_videos = Dir['/Volumes/Media/uTorrent/TV/**/*theory.s02e*.mp4']
+# all_videos = Dir['/Volumes/Media/uTorrent/TV/**/*theory.s02e*.mp4']
+all_videos = Dir["#{video_dir}**/#{search}"]
 
 File.open filename, 'w' do |d|
   all_videos.each do |x|
