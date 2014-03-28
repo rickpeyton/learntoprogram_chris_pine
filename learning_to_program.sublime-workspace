@@ -4,12 +4,72 @@
 		"selected_items":
 		[
 			[
-				"rom",
-				"roman_numeral"
+				"ema",
+				"email_addresses"
+			],
+			[
+				"path",
+				"path_length"
+			],
+			[
+				"name",
+				"name_length"
+			],
+			[
+				"start",
+				"start_month"
+			],
+			[
+				"sta",
+				"start_year"
+			],
+			[
+				"per",
+				"per_month_array"
+			],
+			[
+				"fin",
+				"final_per_month"
+			],
+			[
+				"domain",
+				"domains"
+			],
+			[
+				"star",
+				"start_month"
+			],
+			[
+				"dom",
+				"domain_cost"
+			],
+			[
+				"tot",
+				"total_months"
+			],
+			[
+				"re",
+				"renewal_length"
 			],
 			[
 				"if",
-				"if	if … end"
+				"ife	if … else … end"
+			],
+			[
+				"be",
+				"beccapeyton"
+			],
+			[
+				"st",
+				"start_from"
+			],
+			[
+				"renew",
+				"renewal_rate"
+			],
+			[
+				"rom",
+				"roman_numeral"
 			],
 			[
 				"get",
@@ -272,10 +332,6 @@
 				"wor"
 			],
 			[
-				"tot",
-				"total_with_tax"
-			],
-			[
 				"l",
 				"line_length"
 			],
@@ -458,62 +514,6 @@
 			[
 				"in",
 				"input"
-			],
-			[
-				"searc",
-				"searchbox"
-			],
-			[
-				"sear",
-				"searchbox"
-			],
-			[
-				"n",
-				"transparent"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
-				"backgrou",
-				"background-color"
-			],
-			[
-				"tax",
-				"taxrate"
-			],
-			[
-				"tota",
-				"totalamount"
-			],
-			[
-				"spark",
-				"sparkqty"
-			],
-			[
-				"product",
-				"product"
-			],
-			[
-				"from",
-				"from_file"
-			],
-			[
-				"file",
-				"filename"
-			],
-			[
-				"txt",
-				"txt_again"
-			],
-			[
-				"name",
-				"name_2"
-			],
-			[
-				"print",
-				"persian_cat"
 			]
 		]
 	},
@@ -544,12 +544,17 @@
 	},
 	"file_history":
 	[
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/handbrake-helper.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/domains_budget.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email_addresses_yaml.txt",
+		"/Users/rick/Dropbox/Shared Folders/Rick's Work Folder/The Landfill/tx0024.csv",
+		"/Users/rick/Desktop/handbrake.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter.12archive.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/birthdays.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter12.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/amazon_calculator.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_hash_example.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/rick_test.txt",
@@ -666,12 +671,7 @@
 		"/Users/rick/Desktop/quiet/6-07-6g.m4a",
 		"/Users/rick/Desktop/quiet/6-08-6h.m4a",
 		"/Users/rick/Desktop/quiet/6-09-6i.m4a",
-		"/Users/rick/Desktop/quiet/6-10-6j.m4a",
-		"/Users/rick/Desktop/quiet/7-01-7a.m4a",
-		"/Users/rick/Desktop/quiet/7-02-7b.m4a",
-		"/Users/rick/Desktop/quiet/7-03-7c.m4a",
-		"/Users/rick/Desktop/quiet/7-04-7d.m4a",
-		"/Users/rick/Desktop/quiet/7-05-7e.m4a"
+		"/Users/rick/Desktop/quiet/6-10-6j.m4a"
 	],
 	"find":
 	{
@@ -689,6 +689,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\n",
+			"round",
+			"9.99",
 			"and",
 			"or",
 			"billion",
@@ -743,11 +746,15 @@
 			"16"
 		],
 		"highlight": true,
-		"in_selection": false,
+		"in_selection": true,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			",",
+			"'\n'",
+			",",
+			"10",
 			"or",
 			"and",
 			"trillion",
