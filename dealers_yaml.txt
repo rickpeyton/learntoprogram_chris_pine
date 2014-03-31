@@ -1,13 +1,13 @@
 ---
 FL0511:
-  :company: An Invitation to Grace
-  :returnmail: aninvitationtograce@et.printswell.com
+  :fromname: An Invitation to Grace
+  :frommail: aninvitationtograce@et.printswell.com
   :logo: FL0511.gif
   :web: http://invitationtograce.printswell.com/
   :email: aninvitationtograce@gmail.com
 TX0024:
-  :company: A Perfect Pair by Julie and Sally
-  :returnmail: aperfectpairbyjulieandsally@et.printswell.com
+  :fromname: A Perfect Pair by Julie and Sally
+  :frommail: aperfectpairbyjulieandsally@et.printswell.com
   :logo: TX0024.gif
   :web: http://aperfectpair.printswell.com/
   :email: juliegoudge@gmail.com

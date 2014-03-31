@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"vid",
+				"video_dir"
+			],
+			[
 				"ema",
 				"email_addresses"
 			],
@@ -510,10 +514,6 @@
 			[
 				"margin",
 				"margin"
-			],
-			[
-				"in",
-				"input"
 			]
 		]
 	},
@@ -544,9 +544,9 @@
 	},
 	"file_history":
 	[
-		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/handbrake-helper.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/domains_budget.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/handbrake-helper.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/email_addresses_yaml.txt",
 		"/Users/rick/Dropbox/Shared Folders/Rick's Work Folder/The Landfill/tx0024.csv",
@@ -851,7 +851,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 312.0,
 	"status_bar_visible": true
 }
