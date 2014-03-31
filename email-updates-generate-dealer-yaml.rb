@@ -19,8 +19,8 @@ end
 # filename  = 'all_dealers_yaml.txt'
 
 require 'CSV'
-filename1 = 'all-dealers.csv'
-filename2 = 'all_dealers_yaml.txt'
+filename1 = 'email-updates-all-dealers-export.csv'
+filename2 = 'email-updates-dealer-list-yaml.txt'
 
 some_array = []
 CSV.foreach(filename1) do |row|

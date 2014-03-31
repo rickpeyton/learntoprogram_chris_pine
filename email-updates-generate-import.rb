@@ -16,9 +16,9 @@ end
 # Load it example
 # read_array = yaml_load filename
 
-filename  = 'dealers_yaml.txt'
-filename2 = 'email_addresses_to_import.txt'
-filename3 = 'import_addresses.csv'
+filename  = 'email-updates-dealer-list-yaml.txt'
+filename2 = 'email-updates-import-new-emails.txt'
+filename3 = 'email-updates-final-import-file.csv'
 
 # Load it
 dealers_list = yaml_load filename
