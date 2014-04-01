@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"env",
+				"env_cost"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/2D852483-5A03-4B00-BC1C-3A4BB9134CE2/personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/807F49D4-28FA-4D3D-9E4B-999E13526281/personalize.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/F8825F29-D39D-4BD9-8D4E-D916838D152E/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/A2EF2EBD-DB95-445D-A919-AA27C397D41F/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/127DEDC0-5A18-4CA3-A17F-7829175C42F2/personalize.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/CFB48F75-EF9B-4831-96AD-9220ED2F1CF0/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/B4CF746C-1232-45BA-B2F3-E6BC13CE29E7/personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/C7B5C640-B7A2-4228-9DE7-17872B3F9A79/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/0910B094-1BB7-48DE-B634-2BB360A55299/personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/20528B8E-EC1A-4A5F-AA5A-B52665D97D9A/new_personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/C1D9EA06-8C7C-4C8D-9E25-23E4212DF9F1/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/2B37E539-3697-4D49-9C5B-B8C311B1541E/personalize.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/45971524-9D21-4E6B-8A6D-94DD99ED0E16/personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/BE8FFBB0-87C7-4A4E-BDAD-6910E8397C7A/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/563E224C-47C3-4BD9-BC05-53B60A05BF57/new_order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/96879F10-FC4C-4B24-974D-E41BE18776DA/new_personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/2498C2B2-853B-4010-8E92-945D7F212086/header.tpl",
+		"/Users/printswell/Documents/fulfillmentpricing.rb",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/2B9A800F-FD1D-4AF7-8DA7-86B8C1F6671F/index.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/249D66D1-6DA5-45F3-A351-31EE54BAF2A7/sale-promo-bar.tpl",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby at Work/fuflillment-pricing.rb",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/645EC8CC-75CD-4998-899A-6B7D47040D52/ask_price_type.tpl",
+		"/Volumes/Git 1.9.0 Snow Leopard Intel Universal/setup git PATH for non-terminal programs.sh",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/39BD9C5A-0F62-4DAA-BAFF-024B01DCA6DB/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/15BF8FFD-ABEE-41FF-B983-03E27FBCEF4F/style.css",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/0ED9F148-7DEB-4856-BDC8-1DB7F373A689/new_personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/A2DEA1E3-A0E5-4096-9EE8-75F3B9674E6E/new_order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/0307C029-6C9B-4EF0-813C-F3A92F53E353/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/CB8D8855-224C-4309-AB63-5CE1F08EAC70/add_item.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/8DCC2A83-0493-47E1-9588-7EDBFB9F9142/personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/1ACFBD3D-B444-4AAF-85B6-DBB6D32918B0/personalize_ootb.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/0766689D-B36D-4BB8-A22A-EF91D3888385/personalize_item.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/15CC2B47-0ED3-4012-A5FD-0D1F95870F58/personalize_env.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/85E4EA94-13F8-4751-9635-000258873F24/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/189DF9E8-8D47-42E1-ACA4-57B57DF0A005/new_order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/7B5EB886-3B94-4C0E-A1DE-9A0D735B81FD/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/C7FDD2BC-F878-4D41-853B-B4D081825742/new_order_view.tpl",
+		"/Users/printswell/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/printswell/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/3C0FA23C-33AA-4709-A564-31B6E1C238A3/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/E0A72623-C2DC-4298-A0AB-686E5F0335DC/mailinglists.footer.html",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/A7990C14-1818-4958-9827-7869309286EF/mailinglists.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"paper type",
+			"download envelope templates",
+			"Required front side file to print needs uploaded",
+			".php",
+			".tpl",
+			".php",
+			".tpl",
+			".php",
+			".tpl",
+			".php",
+			".tpl",
+			".php",
+			"Orders Started But",
+			"yimp",
+			"orders started",
+			"open",
+			"tab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ltp-ruby.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
