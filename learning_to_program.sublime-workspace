@@ -4,12 +4,148 @@
 		"selected_items":
 		[
 			[
-				"vid",
-				"video_dir"
+				"pick",
+				"pick_an_orange"
+			],
+			[
+				"tree",
+				"tree1"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"Or",
+				"OrangeTree"
+			],
+			[
+				"one",
+				"one_year_passes"
+			],
+			[
+				"or",
+				"oranges"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"pu",
+				"put_to_bed"
+			],
+			[
+				"stu",
+				"stuff_in_intestine"
+			],
+			[
+				"stuf",
+				"stuff_in_intestine"
+			],
+			[
+				"stuff",
+				"stuff_in_intestine"
+			],
+			[
+				"di",
+				"dice"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"cl",
+				"cla	class .. end"
+			],
+			[
+				"shuff",
+				"shuffle"
+			],
+			[
+				"b",
+				"bday"
+			],
+			[
+				"birth",
+				"birth_dates"
+			],
+			[
+				"birt",
+				"birth_dates"
+			],
+			[
+				"bir",
+				"birth_dates"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"filenametwo"
+			],
+			[
+				"yam",
+				"yaml_load"
+			],
+			[
+				"File",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"deal",
+				"dealers"
+			],
+			[
+				"read",
+				"read"
+			],
+			[
+				"all",
+				"all_dealers"
 			],
 			[
 				"ema",
-				"email_addresses"
+				"email"
+			],
+			[
+				"from",
+				"frommail"
+			],
+			[
+				"acc",
+				"acct_num"
+			],
+			[
+				"dea",
+				"dealers_list"
+			],
+			[
+				"renw",
+				"renew_year"
+			],
+			[
+				"doma",
+				"domain"
+			],
+			[
+				"ren",
+				"renew_year"
+			],
+			[
+				"rene",
+				"renew_rate"
+			],
+			[
+				"rew",
+				"renew_year"
+			],
+			[
+				"vid",
+				"video_dir"
 			],
 			[
 				"path",
@@ -50,14 +186,6 @@
 			[
 				"tot",
 				"total_months"
-			],
-			[
-				"re",
-				"renewal_length"
-			],
-			[
-				"if",
-				"ife	if … else … end"
 			],
 			[
 				"be",
@@ -152,14 +280,6 @@
 				"year_born"
 			],
 			[
-				"shuff",
-				"shufflled_music"
-			],
-			[
-				"all",
-				"all_music"
-			],
-			[
 				"to",
 				"total"
 			],
@@ -184,10 +304,6 @@
 				"picture_increment"
 			],
 			[
-				"ren",
-				"renamer"
-			],
-			[
 				"num",
 				"number3"
 			],
@@ -198,10 +314,6 @@
 			[
 				"Dir",
 				"Dir	Dir[\"..\"]"
-			],
-			[
-				"yam",
-				"yaml_save"
 			],
 			[
 				"yaml",
@@ -220,20 +332,12 @@
 				"test_string"
 			],
 			[
-				"read",
-				"read_array"
-			],
-			[
 				"Fil",
 				"File	File.read(\"..\")"
 			],
 			[
 				"w",
 				"w	attr_writer .."
-			],
-			[
-				"File",
-				"File	File.open(\"..\") { |file| .. }"
 			],
 			[
 				"ones",
@@ -254,10 +358,6 @@
 			[
 				"shuffle",
 				"shuffled_array"
-			],
-			[
-				"or",
-				"orig_array"
 			],
 			[
 				"org",
@@ -294,10 +394,6 @@
 			[
 				"so",
 				"sorted_array"
-			],
-			[
-				"pu",
-				"push"
 			],
 			[
 				"zeb",
@@ -418,102 +514,6 @@
 			[
 				"to_",
 				"to_s"
-			],
-			[
-				"total",
-				"totalname"
-			],
-			[
-				"last",
-				"last"
-			],
-			[
-				"midd",
-				"middleName"
-			],
-			[
-				"first",
-				"firstName"
-			],
-			[
-				"ch",
-				"chomp"
-			],
-			[
-				"numbe",
-				"number2"
-			],
-			[
-				"var",
-				"var2"
-			],
-			[
-				"say_",
-				"say_hi"
-			],
-			[
-				"say",
-				"say_bye"
-			],
-			[
-				"nam",
-				"names"
-			],
-			[
-				"sa",
-				"say_hi"
-			],
-			[
-				"fon",
-				"font-size"
-			],
-			[
-				"padding",
-				"padding-left"
-			],
-			[
-				"border",
-				"border-top"
-			],
-			[
-				"rep",
-				"no-repeat"
-			],
-			[
-				"backgr",
-				"background-image"
-			],
-			[
-				"text",
-				"text-decoration"
-			],
-			[
-				"font",
-				"font-weight"
-			],
-			[
-				"hp-",
-				"hp-sub-text-left"
-			],
-			[
-				"f",
-				"font-weight"
-			],
-			[
-				"font-",
-				"font-size"
-			],
-			[
-				"produ",
-				"products"
-			],
-			[
-				"produc",
-				"product_id"
-			],
-			[
-				"margin",
-				"margin"
 			]
 		]
 	},
@@ -544,15 +544,32 @@
 	},
 	"file_history":
 	[
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_1.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_2.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_3.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_5.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_6_A.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/13_4.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/untitled",
+		"/Users/rick/Dropbox/Reference/R/Ruby/birthdays.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/12.6_birthdays.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email-updates-generate-dealer-yaml.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email-updates-generate-import.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/email_addresses_to_import.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/import_addresses.csv",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealer_mailing_list_update.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/dealers_yaml.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/all_dealers_yaml.txt",
+		"/Users/rick/Dropbox/Reference/R/Ruby/all-dealers.csv",
+		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code.rb",
+		"/Users/rick/Dropbox/Reference/R/Ruby/all-dealers.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/domains_budget.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/handbrake-helper.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11archive.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/testing_code.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/email_addresses_yaml.txt",
 		"/Users/rick/Dropbox/Shared Folders/Rick's Work Folder/The Landfill/tx0024.csv",
 		"/Users/rick/Desktop/handbrake.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter.12archive.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/birthdays.txt",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter12.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/amazon_calculator.rb",
@@ -563,7 +580,6 @@
 		"/Users/rick/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter11.3.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter10-englishnumber.rb",
-		"/Users/rick/Dropbox/Reference/R/Ruby/untitled",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter7.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter8.rb",
 		"/Users/rick/Dropbox/Reference/R/Ruby/chapter9.rb",
@@ -655,23 +671,7 @@
 		"/Users/rick/Desktop/quiet/5-01-5a.m4a",
 		"/Users/rick/Desktop/quiet/5-02-5b.m4a",
 		"/Users/rick/Desktop/quiet/5-03-5c.m4a",
-		"/Users/rick/Desktop/quiet/5-04-5d.m4a",
-		"/Users/rick/Desktop/quiet/5-05-5e.m4a",
-		"/Users/rick/Desktop/quiet/5-06-5f.m4a",
-		"/Users/rick/Desktop/quiet/5-07-5g.m4a",
-		"/Users/rick/Desktop/quiet/5-08-5h.m4a",
-		"/Users/rick/Desktop/quiet/5-09-5i.m4a",
-		"/Users/rick/Desktop/quiet/5-10-5j.m4a",
-		"/Users/rick/Desktop/quiet/6-01-6a.m4a",
-		"/Users/rick/Desktop/quiet/6-02-6b.m4a",
-		"/Users/rick/Desktop/quiet/6-03-6c.m4a",
-		"/Users/rick/Desktop/quiet/6-04-6d.m4a",
-		"/Users/rick/Desktop/quiet/6-05-6e.m4a",
-		"/Users/rick/Desktop/quiet/6-06-6f.m4a",
-		"/Users/rick/Desktop/quiet/6-07-6g.m4a",
-		"/Users/rick/Desktop/quiet/6-08-6h.m4a",
-		"/Users/rick/Desktop/quiet/6-09-6i.m4a",
-		"/Users/rick/Desktop/quiet/6-10-6j.m4a"
+		"/Users/rick/Desktop/quiet/5-04-5d.m4a"
 	],
 	"find":
 	{
@@ -689,6 +689,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"shuffle",
+			"returnmail",
+			"company",
+			" ",
+			"- ",
 			"\n",
 			"round",
 			"9.99",
@@ -746,11 +751,15 @@
 			"16"
 		],
 		"highlight": true,
-		"in_selection": true,
+		"in_selection": false,
 		"preserve_case": false,
 		"regex": false,
 		"replace_history":
 		[
+			"shuffler",
+			"fromemail",
+			"fromname",
+			"",
 			",",
 			"'\n'",
 			",",
@@ -851,7 +860,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 312.0,
 	"status_bar_visible": true
 }
