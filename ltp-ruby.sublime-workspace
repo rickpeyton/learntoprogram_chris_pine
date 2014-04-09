@@ -39,6 +39,25 @@
 	},
 	"file_history":
 	[
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/email-updates-import-new-emails.txt",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/email-updates-final-import-file.csv",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/email-updates-dealer-list-yaml.txt",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/C40B0A86-67C1-4748-A7B0-E9C1E3DCC130/style.css",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/9CA0D078-7124-482E-9DEC-75922EBDCD19/ask_price_type.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/0FAA4C2A-FC02-4EAE-AEC9-5CD23752BCF6/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/C8836C17-3C5D-4D8C-B6D3-40BE80CEFA55/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/581973CE-A234-4454-AFF7-C5AED48C47C3/orders.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/B7D4C05F-3FCD-4536-B06E-A3BA38B1F2D7/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/88027340-15EE-471B-9666-03BDE15555EC/personalize.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/E92B27F3-F58C-460E-85DA-6D005461242E/add_item.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/A93761BB-8048-4502-9AA5-E48DB7375D39/order_view.tpl",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/70FFDA50-EAF8-43A6-A105-6DD41BAB5FAC/order.php",
+		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/3C990363-B08C-4CAB-9EE2-4DF22149C9B3/orders.tpl",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/testing_code.rb",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/email-updates-generate-import.rb",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/froogle_test.txt",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/email-updates-generate-dealer-yaml.rb",
+		"/Users/printswell/Dropbox/Rick's Work Folder/Reference/R/Ruby/learntoprogram_chris_pine/email-updates-all-dealers-export.csv",
 		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/2D852483-5A03-4B00-BC1C-3A4BB9134CE2/personalize.tpl",
 		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/807F49D4-28FA-4D3D-9E4B-999E13526281/personalize.php",
 		"/Users/printswell/Library/Caches/Cleanup At Startup/Transmit/F8825F29-D39D-4BD9-8D4E-D916838D152E/order.php",
@@ -84,7 +103,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -98,6 +117,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" ",
+			",",
+			" ",
+			"to begin ordering",
+			"http://stationerystyle.com/products/black-blue-border-digital-photo-graduation-invitation.html",
+			"\n",
+			"Transfer In ",
+			" ",
 			"paper type",
 			"download envelope templates",
 			"Required front side file to print needs uploaded",
@@ -122,6 +149,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
+			",",
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -175,7 +205,7 @@
 	"project": "ltp-ruby.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -209,7 +239,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 305.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
